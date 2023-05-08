@@ -9,9 +9,7 @@
 
 <div align="center">
 
-# InterOp+
-
-**Create,Communicate, Collaborate**
+# <img src="img/InterOp+ Logo.png" />
 
 InterOp+ is a project to address Software Interoperability in the Strathmore University Ecosystem by providing a Software Interoperability Framework.
 
