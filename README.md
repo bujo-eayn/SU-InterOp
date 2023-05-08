@@ -13,7 +13,7 @@
 
 **Create,Communicate, Collaborate**
 
-InterOp+ is a project to address Software Interoperability in the Strathmore University Software Ecosystem by providing a Software Interoperability Framework.
+InterOp+ is a project to address Software Interoperability in the Strathmore University Ecosystem by providing a Software Interoperability Framework.
 
 [Introduction](#introduction) •
 [Background](#background) •
